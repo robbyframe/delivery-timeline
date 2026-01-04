@@ -1,0 +1,28 @@
+{
+  "name": "LUYS Delivery Timeline Planner",
+  "short_name": "LUYS",
+  "description": "Level Up Your Show - Professional planning tool for workshops and presentations",
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#1e293b",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/level_up_white.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/level_up_white.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["productivity", "education", "business"],
+  "prefer_related_applications": false
+}
